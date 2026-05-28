@@ -32,19 +32,19 @@ A simple and responsive Expense Tracker web application developed using PHP and 
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Screenshots/dashboard.png)
 
 ### Add Expense Page
 
-![Add Expense](screenshots/add-expense.png)
+![Add Expense](Screenshots/add-expense.png)
 
 ### Expense Report
 
-![Expense Report](screenshots/report.png)
+![Expense Report](Screenshots/report.png)
 
 ### Login Page
 
-![Login](screenshots/login.png)
+![Login](Screenshots/login.png)
 
 ---
 
