@@ -121,10 +121,6 @@ expense-tracker/
 
 Computer Engineering Student & Full Stack Web Developer
 
-* GitHub: https://github.com/pritamvasavada
-* LinkedIn: https://linkedin.com
-* Email: [pritamvasavada8@gmail.com](mailto:pritamvasavada8@gmail.com)
-
 ---
 
 ## ⭐ Support
